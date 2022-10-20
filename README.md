@@ -8,10 +8,11 @@ Answer:
 
 my_boolean_variable = True
 my_float_variable = 2.05
-my_int_variable = 56
+my_int_variable = 987
 my_string_variable = "Gene 5"
 my_null_variable = None
-
+my_int_variable = True
 My_lovely_answer = 77
 
-
+678
+654
