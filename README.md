@@ -6,8 +6,12 @@ choosing variable names!
 
 Answer:
 
-my_boolean_variable = False
-my_float_variable = 3.14
-my_int_variable = 35
-my_string_variable = "Gene 1"
+my_boolean_variable = True
+my_float_variable = 2.05
+my_int_variable = 56
+my_string_variable = "Gene 5"
 my_null_variable = None
+
+My_lovely_answer = 77
+
+
