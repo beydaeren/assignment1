@@ -21,3 +21,4 @@ my_fav_gene = promoter + 5_prime_UTR + start_codon + exon1 + \
 print("My favorite gene sequence is as follows:")
 print(my_fav_gene)
 
+END
